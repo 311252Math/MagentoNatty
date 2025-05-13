@@ -60,12 +60,12 @@ public class SeboticsRoom implements BotRoom{
 
     @Override
     public String getSiteName() {
-        return "askubuntu";
+        return "magento";
     }
 
     @Override
     public String getSiteUrl() {
-        return "askubuntu.com";
+        return "magento.stackexchange.com";
     }
 
 }
