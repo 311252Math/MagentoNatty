@@ -20,7 +20,7 @@ import java.util.function.Consumer;
 public class SOBoticsChatRoom implements BotRoom{
     @Override
     public int getRoomId() {
-        return 111347;
+        return 259495;
     }
 
     @Override

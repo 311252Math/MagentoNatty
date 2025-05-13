@@ -55,7 +55,7 @@ public class SeboticsRoom implements BotRoom{
 
     @Override
     public ChatHost getHost() {
-        return ChatHost.META.STACK_EXCHANGE;
+        return ChatHost.STACK_EXCHANGE;
     }
 
     @Override
