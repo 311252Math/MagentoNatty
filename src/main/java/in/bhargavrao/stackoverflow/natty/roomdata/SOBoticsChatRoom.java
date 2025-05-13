@@ -60,11 +60,11 @@ public class SOBoticsChatRoom implements BotRoom{
 
     @Override
     public String getSiteName() {
-        return "stackoverflow";
+        return "magento";
     }
 
     @Override
     public String getSiteUrl() {
-        return "stackoverflow.com";
+        return "magento.stackexchange.com";
     }
 }

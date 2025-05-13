@@ -20,7 +20,7 @@ import java.util.function.Consumer;
 public class SeboticsRoom implements BotRoom{
     @Override
     public int getRoomId() {
-        return 1808;
+        return 54445;
     }
 
     @Override
@@ -60,12 +60,12 @@ public class SeboticsRoom implements BotRoom{
 
     @Override
     public String getSiteName() {
-        return "magento";
+        return "askubuntu";
     }
 
     @Override
     public String getSiteUrl() {
-        return "magento.stackexchange.com";
+        return "askubuntu.com";
     }
 
 }
