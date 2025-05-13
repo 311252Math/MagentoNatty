@@ -20,7 +20,7 @@ import java.util.function.Consumer;
 public class SeboticsRoom implements BotRoom{
     @Override
     public int getRoomId() {
-        return 54445;
+        return 1808;
     }
 
     @Override
@@ -55,7 +55,7 @@ public class SeboticsRoom implements BotRoom{
 
     @Override
     public ChatHost getHost() {
-        return ChatHost.STACK_EXCHANGE;
+        return ChatHost.META.STACK_EXCHANGE;
     }
 
     @Override
