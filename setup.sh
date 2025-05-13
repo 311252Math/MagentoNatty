@@ -51,4 +51,4 @@ python3 setup/requestData.py
 
 mvn clean
 mvn package
-cp target/natty-v4.jar .
+cp target/natty-v4.2.1.jar .
